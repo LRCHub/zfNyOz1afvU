@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Don't Let Me Be Yours",
+  "base_artist": "Zara Larsson",
+  "createdAt": "2025-12-11T16:00:11.955807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don’t Let Me Be Yours",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/01_Don’t_Let_Me_Be_Yours_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/02_Don't_Let_Me_Be_Yours_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/03_Don't_Let_Me_Be_Yours_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/04_Don't_Let_Me_Be_Yours_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Let Me Be Yours",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/05_Don’t_Let_Me_Be_Yours_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Let Me Be Yours (AObeats remix)",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/06_Don’t_Let_Me_Be_Yours_(AObeats_remix)_Zara_Larsson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours (AObeats Remix)",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/07_Don't_Let_Me_Be_Yours_(AObeats_Remix)_Zara_Larsson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t Let Me Be Yours (Black Chiney remix)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/08_Don’t_Let_Me_Be_Yours_(Black_Chiney_remix)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours - AObeats Remix",
+      "artist": "Zara Larsson, AOBeats",
+      "has_synced": false,
+      "path": "select/09_Don't_Let_Me_Be_Yours_-_AObeats_Remix_Zara_Larsson,_AOBeats.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours (Black Chiney Remix)",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/10_Don't_Let_Me_Be_Yours_(Black_Chiney_Remix)_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Let Me Be Yours - Black Chiney Remix",
+      "artist": "Zara Larsson, Black Chiney",
+      "has_synced": true,
+      "path": "select/11_Don't_Let_Me_Be_Yours_-_Black_Chiney_Remix_Zara_Larsson,_Black_Chiney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Let Me Be Yours",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Let_Me_Be_Yours_Zara_Larsson.txt"
+    }
+  ]
+}
